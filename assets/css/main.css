@@ -1,0 +1,55 @@
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.paddingHorizontal {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.purple {
+  color: purple;
+}
+.header {
+  width: 80%;
+  height: 50px;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  border-bottom: 2px;
+  border-color: gray;
+  border-style: solid;
+  font-size: larger;
+  margin: auto;
+}
+.center {
+  text-align: center;
+}
+.start-button {
+  border-radius: 5px;
+  background-color: purple;
+  color: white;
+  padding: 5px;
+}
+.container {
+  width: 50%;
+  text-align: left;
+}
+.block {
+  display: block;
+  margin: 5px;
+  width: 500px;
+  text-align: left;
+  border-color: purple;
+  background-color: white;
+}
+.correct {
+  width: 500px;
+  border-color: gray;
+  border-style: solid;
+  padding: 10px;
+  height: 50px;
+  width: 500px;
+  margin: 5px;
+}
