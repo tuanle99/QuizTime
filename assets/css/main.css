@@ -53,3 +53,10 @@
   width: 500px;
   margin: 5px;
 }
+.inline {
+  display: inline-block;
+  margin-right: 10px;
+}
+.spacing {
+  margin-left: 10px;
+}
