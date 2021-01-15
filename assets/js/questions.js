@@ -1,27 +1,27 @@
 var question = [
     {
-        question: "question 1",
-        answers: ["answer 1", "answer 2", "answer 3", "answer 4"],
-        correctAnswer: "answer 1"
+        question: "1: What team owns the longest winning streak in NBA history?",
+        answers: ["Miami Heat", "Los Angeles Lakers", "Chicago Bulls", "Golden State Warriors"],
+        correctAnswer: "Los Angeles Lakers"
     },
     {
-        question: "question 2",
-        answers: ["answer 1", "answer 2", "answer 3", "answer 4"],
-        correctAnswer: "answer 2"
+        question: "2. When Michael Jordan played for the Chicago Bulls, how many NBA Championships did he win?",
+        answers: ["4", "5", "6", "7"],
+        correctAnswer: "6"
     },
     {
-        question: "question 3",
-        answers: ["answer 1", "answer 2", "answer 3", "answer 4"],
-        correctAnswer: "answer 3"
+        question: "3. Who scored the first three-point basket in NBA history?",
+        answers: ["Chris Ford", "Wes Unseld", "Gene Stump", "Larry Bird"],
+        correctAnswer: "Chris Ford"
     },
     {
-        question: "question 4",
-        answers: ["answer 1", "answer 2", "answer 3", "answer 4"],
-        correctAnswer: "answer 4"
+        question: "4. What team won the very first NBA game?",
+        answers: ["New York Knicks", "Toronto Huskies", "Chicago Stags", "Philadelphia Warriors"],
+        correctAnswer: "New York Knicks"
     },
     {
-        question: "question 5",
-        answers: ["answer 1", "answer 2", "answer 3", "answer 4"],
-        correctAnswer: "answer 1"
+        question: "5. What NBA player scored 100 points on March 2, 1962?",
+        answers: ["Elgin Baylor", "Wilt Chamberlain", "Kareem Abdul-Jabbar", "Bill Russell"],
+        correctAnswer: "Bill Russell"
     }
 ]

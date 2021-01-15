@@ -131,14 +131,12 @@ $(document).ready(function() {
     }
     function save_score(name, score){
         scoreElement.textContent = name + " - " + score;
-        disabled_button();
     }
     function clear_score(){
         scoreElement.textContent = "";
         disabled_button();
     }
     function disabled_button() {
-        $('.clear').prop('disabled', true);
         $('.save').prop('disabled', true);
     }
 });
